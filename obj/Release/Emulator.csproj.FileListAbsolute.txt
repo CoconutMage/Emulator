@@ -1,0 +1,20 @@
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\bin\Release\Emulator v1.1.exe.config
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\bin\Release\Emulator v1.1.exe
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\bin\Release\Emulator v1.1.pdb
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Release\Emulator_v1.Form1.resources
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Release\Emulator_v1.Properties.Resources.resources
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Release\Emulator.csproj.GenerateResource.Cache
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Release\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Release\Emulator v1.1.exe
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Release\Emulator v1.1.pdb
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+F:\Work\Stratagem\Emulator v2\bin\Release\Emulator v2.exe.config
+F:\Work\Stratagem\Emulator v2\bin\Release\Emulator v2.exe
+F:\Work\Stratagem\Emulator v2\bin\Release\Emulator v2.pdb
+F:\Work\Stratagem\Emulator v2\obj\Release\Emulator.csprojResolveAssemblyReference.cache
+F:\Work\Stratagem\Emulator v2\obj\Release\Emulator_v1.Form1.resources
+F:\Work\Stratagem\Emulator v2\obj\Release\Emulator_v1.Properties.Resources.resources
+F:\Work\Stratagem\Emulator v2\obj\Release\Emulator.csproj.GenerateResource.Cache
+F:\Work\Stratagem\Emulator v2\obj\Release\Emulator.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\Emulator v2\obj\Release\Emulator v2.exe
+F:\Work\Stratagem\Emulator v2\obj\Release\Emulator v2.pdb

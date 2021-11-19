@@ -1,0 +1,50 @@
+F:\Work\Stratagem\Emulator v1\bin\Debug\Emulator v1.exe.config
+F:\Work\Stratagem\Emulator v1\bin\Debug\Emulator v1.exe
+F:\Work\Stratagem\Emulator v1\bin\Debug\Emulator v1.pdb
+F:\Work\Stratagem\Emulator v1\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+F:\Work\Stratagem\Emulator v1\obj\Debug\Emulator_v1.Form1.resources
+F:\Work\Stratagem\Emulator v1\obj\Debug\Emulator_v1.Properties.Resources.resources
+F:\Work\Stratagem\Emulator v1\obj\Debug\Emulator.csproj.GenerateResource.Cache
+F:\Work\Stratagem\Emulator v1\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\Emulator v1\obj\Debug\Emulator v1.exe
+F:\Work\Stratagem\Emulator v1\obj\Debug\Emulator v1.pdb
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\bin\Debug\Emulator v1.1.exe.config
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\bin\Debug\Emulator v1.1.exe
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\bin\Debug\Emulator v1.1.pdb
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Debug\Emulator_v1.Form1.resources
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Debug\Emulator_v1.Properties.Resources.resources
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Debug\Emulator.csproj.GenerateResource.Cache
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Debug\Emulator v1.1.exe
+C:\Users\StratTrade\Documents\Stratagem Emulator\Emulator v1.1\obj\Debug\Emulator v1.1.pdb
+F:\Work\Stratagem\Emulator v2\bin\Debug\Emulator v2.exe.config
+F:\Work\Stratagem\Emulator v2\bin\Debug\Emulator v2.exe
+F:\Work\Stratagem\Emulator v2\bin\Debug\Emulator v2.pdb
+F:\Work\Stratagem\Emulator v2\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+F:\Work\Stratagem\Emulator v2\obj\Debug\Emulator_v1.Form1.resources
+F:\Work\Stratagem\Emulator v2\obj\Debug\Emulator_v1.Properties.Resources.resources
+F:\Work\Stratagem\Emulator v2\obj\Debug\Emulator.csproj.GenerateResource.Cache
+F:\Work\Stratagem\Emulator v2\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\Emulator v2\obj\Debug\Emulator v2.exe
+F:\Work\Stratagem\Emulator v2\obj\Debug\Emulator v2.pdb
+F:\Work\Stratagem\Emulator v2.1\bin\Debug\Emulator v2.1.exe.config
+F:\Work\Stratagem\Emulator v2.1\bin\Debug\Emulator v2.1.exe
+F:\Work\Stratagem\Emulator v2.1\bin\Debug\Emulator v2.1.pdb
+F:\Work\Stratagem\Emulator v2.1\obj\Debug\Emulator.csprojResolveAssemblyReference.cache
+F:\Work\Stratagem\Emulator v2.1\obj\Debug\Emulator_v1.Form1.resources
+F:\Work\Stratagem\Emulator v2.1\obj\Debug\Emulator_v1.Properties.Resources.resources
+F:\Work\Stratagem\Emulator v2.1\obj\Debug\Emulator.csproj.GenerateResource.Cache
+F:\Work\Stratagem\Emulator v2.1\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+F:\Work\Stratagem\Emulator v2.1\obj\Debug\Emulator v2.1.exe
+F:\Work\Stratagem\Emulator v2.1\obj\Debug\Emulator v2.1.pdb
+C:\Users\adamg\Desktop\Emulator v2.2\bin\Debug\Emulator v2.2.exe.config
+C:\Users\adamg\Desktop\Emulator v2.2\bin\Debug\Emulator v2.2.exe
+C:\Users\adamg\Desktop\Emulator v2.2\bin\Debug\Emulator v2.2.pdb
+C:\Users\adamg\Desktop\Emulator v2.2\obj\Debug\Emulator.csprojAssemblyReference.cache
+C:\Users\adamg\Desktop\Emulator v2.2\obj\Debug\Emulator_v1.Form1.resources
+C:\Users\adamg\Desktop\Emulator v2.2\obj\Debug\Emulator_v1.Properties.Resources.resources
+C:\Users\adamg\Desktop\Emulator v2.2\obj\Debug\Emulator.csproj.GenerateResource.cache
+C:\Users\adamg\Desktop\Emulator v2.2\obj\Debug\Emulator.csproj.CoreCompileInputs.cache
+C:\Users\adamg\Desktop\Emulator v2.2\obj\Debug\Emulator v2.2.exe
+C:\Users\adamg\Desktop\Emulator v2.2\obj\Debug\Emulator v2.2.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emulator", "Emulator.csproj", "{5BCA1B29-A91F-4187-9A4E-32C0A425F60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BCA1B29-A91F-4187-9A4E-32C0A425F60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCA1B29-A91F-4187-9A4E-32C0A425F60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCA1B29-A91F-4187-9A4E-32C0A425F60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCA1B29-A91F-4187-9A4E-32C0A425F60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FF5E25D-C4F4-47DC-9945-96EE08A634F6}
+	EndGlobalSection
+EndGlobal
